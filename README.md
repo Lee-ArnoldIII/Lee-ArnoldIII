@@ -1,4 +1,3 @@
-![background](<img src='development.jpg'>)
 ### Hi there 👋
 
 <!--

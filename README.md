@@ -1,4 +1,4 @@
-![background](/images/business-background.jpg)
+![background](business-background.jpg)
 ### Hi there 👋
 <!-- 🎮 Gamer
 💬 [LinkedIn](https://www.linkedin.com/in//)

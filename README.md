@@ -1,5 +1,11 @@
-<!-- ![background]() -->
+![background](/images/business-background.jpg)
 ### Hi there 👋
+<!-- 🎮 Gamer
+💬 [LinkedIn](https://www.linkedin.com/in//)
+
+
+-->
+
 
 <!--
 **Lee-ArnoldIII/Lee-ArnoldIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

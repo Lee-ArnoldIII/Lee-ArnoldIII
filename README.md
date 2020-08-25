@@ -1,4 +1,4 @@
-![background](https://photos.google.com/photo/AF1QipMKCiUaRF3glIIAwXyey3cnD9LSeRTTvgf_ZDsF)
+
 ### Hi there 👋
 🎮 Gamer
  

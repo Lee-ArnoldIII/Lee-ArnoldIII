@@ -1,23 +1,13 @@
-![background](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Ffree-photo-jyojj&psig=AOvVaw1_xUti967XQzk9MiqTH9fl&ust=1598404281403000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDr_pGWtesCFQAAAAAdAAAAABAQ)
+![background]()
 ### Hi there 👋
 🎮 Gamer
-💬 [LinkedIn](https://www.linkedin.com/in//)
+ 
+- 🔭 I’m currently working on my capstone for my MPA program
+- 🌱 I’m currently learning python & data visualization
+- 👯 I’m looking to collaborate on python side projects
+- 🤔 I’m looking for help with file structure for a python app
+- 💬 Ask me about anything
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in//)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have moved over 25 times
 
-
-
-
-
-<!--
-**Lee-ArnoldIII/Lee-ArnoldIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

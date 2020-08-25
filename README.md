@@ -1,4 +1,4 @@
-![background](/images/business-background.jpg)
+![background](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Ffree-photo-jyojj&psig=AOvVaw1_xUti967XQzk9MiqTH9fl&ust=1598404281403000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDr_pGWtesCFQAAAAAdAAAAABAQ)
 ### Hi there 👋
 🎮 Gamer
 💬 [LinkedIn](https://www.linkedin.com/in//)

@@ -2,7 +2,7 @@
 ### Hi there 👋
 🎮 Gamer
  
-- 🔭 I’m currently building EdTech company
+- 🔭 I’m currently building an EdTech company
 - 🌱 I’m currently learning AI integration
 - 👯 I’m looking to collaborate on python or AI projects
 - 💬 Ask me about anything
